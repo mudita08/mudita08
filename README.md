@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mudita<br/>
 - 😄 Pronouns: She/Her <br/>
 - 💻 2nd year CS undergrad<br/>
-- 👩‍💻 Currently learning Data science!<br/>
+- 👩‍💻 Currently learning Machine Learning!<br/>
 <!---🤝 Looking to collaborate on Machine learning projects  --->
 <!--- 👀 I’m interested in learning --->
 <!---
